@@ -32,7 +32,7 @@
     ],
     "start_url": "./index.html",
     "background_color": "#ffffff",
-    "theme_color": "#2196f3",
+    "themeColor": "#2196f3",
     "display": "standalone",
     "lang": "id",
     "orientation": "any",
