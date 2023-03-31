@@ -6,7 +6,7 @@
             "src": "images/logo.png",
             "sizes": "192x192",
             "type": "image/png",
-            "purpose": "any"
+            "purpose": "maskable any"
         },
         {
             "src": "images/logo.png",
@@ -38,6 +38,17 @@
     "orientation": "any",
     "dir": "auto",
     "display_override": ["standalone"],
+    "shortcuts": [{
+        "name": "View Portfolio",
+        "short_name": "Portfolio",
+        "description": "View my portfolio",
+        "url": "/portfolio",
+        "icons": [{
+            "src": "images/portfolio.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }]
+    }],
     "categories": ["portfolio"],
     "iarc_rating_id": "iarc-rating-id",
     "prefer_related_applications": true,
