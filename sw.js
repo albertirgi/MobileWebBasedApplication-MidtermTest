@@ -7,7 +7,6 @@ const filesToCache = [
     "./contact.html",
     "./portfolio-example01.html",
     "./styles.css",
-    "./app.js",
     "./images/about-header.jpg",
     "./images/contact-image.jpg",
     "./images/example-blog01.jpg",
